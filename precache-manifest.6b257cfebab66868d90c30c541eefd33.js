@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Always-Clicky/static/css/main.4f39f3f7.chunk.css"
   },
   {
-    "revision": "802f6ab0251d525125a550427580af9e",
+    "revision": "682d4fa4b657c64e4e413a32545701bb",
     "url": "/Always-Clicky/index.html"
   }
 ];
