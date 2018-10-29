@@ -70,7 +70,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="It's Always Sunny in Philadelphia Clicky Game"
+          title="IT'S ALWAYS SUNNY IN PHILADELPHIA - A CLICKY GAME"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
